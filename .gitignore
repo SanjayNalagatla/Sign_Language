@@ -1,0 +1,12 @@
+# installers
+*.exe
+*.msix
+
+# datasets (optional - depends on your repo size)
+ASL_Alphabet_dataset/
+WLASL_dataset/
+
+# system
+.vscode/
+__pycache__/
+*.pyc
